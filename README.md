@@ -1,0 +1,2 @@
+# rogueOne
+If you are reading this message, it means that the Rogue Force has reached you successfully and it is in need of your help. You, as a great hacker, must help them to acquire the Imperial resource coordinates, decoding and processing the Imperial leaked messages. The Empire is about to reach the rebel base, so the clock is ticking and you have to face this challenge, in order to turn the tides in favor of the Rebels.
